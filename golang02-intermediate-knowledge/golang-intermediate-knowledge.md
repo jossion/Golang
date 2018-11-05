@@ -14,11 +14,11 @@
 
 7. [递归函数](golang-recursive-function.md)
 
-8. [指针的声明]()
+8. [指针的声明](golang-pointDeclaration.md)
 
-9. [复合数据类型指针及空指针]()
+9. [复合数据类型指针及空指针](golang-point-compusitedatatype.md)
 
-10. [指针作为函数参数]()
+10. [指针作为函数参数](golang-point-functionparameter.md)
 
 11. [指针数组及指针的指针]()
 
